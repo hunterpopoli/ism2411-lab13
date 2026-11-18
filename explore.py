@@ -1,3 +1,8 @@
+# Reflection
+# 1. A boolean filter evaluates a condition for every row and discards the Falses.
+# 2. Single Brackets return a flat 1D Series. Double brackets return a structured 2D DataFrame.
+# 3. Pandas can handle millions of rows of data that can be reproduced with indentical results and no hidden formula errors.
+
 print("--- Exercise 1 ---")
 import pandas as pd
 
